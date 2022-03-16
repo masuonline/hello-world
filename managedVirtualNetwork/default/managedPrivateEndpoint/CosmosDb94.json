@@ -1,0 +1,9 @@
+{
+	"name": "CosmosDb94",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/09a3a8f6-3ae6-42d5-b1cd-61a29e021518/resourceGroups/rg-masuo-synapse/providers/Microsoft.DocumentDb/databaseAccounts/testcosmosmasuo",
+		"groupId": "Analytical",
+		"ipAddress": null,
+		"resourceId": "/subscriptions/b9de3ab1-5ef4-4958-a88f-bcae7c42af63/resourceGroups/vnet-b9de3ab1-japaneast-129-rg/providers/Microsoft.Network/privateEndpoints/sugukesufactory.CosmosDb94"
+	}
+}

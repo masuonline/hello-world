@@ -1,0 +1,9 @@
+{
+	"name": "sugukesufactory",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cc582b42-72b8-4dd2-acca-41e841b32702",
+		"tenantId": "9ba70d95-caf5-4150-a013-e2b1cddaff7a"
+	}
+}
